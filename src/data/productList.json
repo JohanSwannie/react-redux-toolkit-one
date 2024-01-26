@@ -2,84 +2,84 @@
   "products": [
     {
       "id": "1",
-      "name": "Springs Robot",
-      "detail": "Super Springs Robot",
-      "price": 70,
-      "imageUrl": "https://github.com/ebenezerdon/shopping-cart-images/blob/main/robot1.png?raw=true"
+      "name": "Shoes 1",
+      "detail": "Shoes for a nice picnic",
+      "price": 38,
+      "imageUrl": "data:image/jpeg;base64,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"
     },
     {
       "id": "2",
-      "name": "Sergeant Robot",
-      "detail": "Super Sergeant Robot",
-      "price": 129,
-      "imageUrl": "https://github.com/ebenezerdon/shopping-cart-images/blob/main/robot2.png?raw=true"
+      "name": "Shoes 2",
+      "detail": "Shoes for a nice walk",
+      "price": 62,
+      "imageUrl": "https://img.freepik.com/free-photo/new-pair-white-sneakers-isolated-white_93675-130969.jpg"
     },
     {
       "id": "3",
-      "name": "River Robot",
-      "detail": "Super River Robot",
-      "price": 91,
-      "imageUrl": "https://github.com/ebenezerdon/shopping-cart-images/blob/main/robot3.png?raw=true"
+      "name": "Shoes 3",
+      "detail": "Dhoes for the gym",
+      "price": 95,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYgWZwd2oLIQbqEo3zUaNNnVvK-vX-6Hd3AxCgdRHXbMXAMKTWmKYa5Dc-YB-AyuElcgc&usqp=CAU"
     },
     {
       "id": "4",
-      "name": "Rex Robot",
-      "detail": "Super Rex Robot",
-      "price": 47,
-      "imageUrl": "https://github.com/ebenezerdon/shopping-cart-images/blob/main/robot4.png?raw=true"
+      "name": "Shoes 4",
+      "detail": "Shoes for church",
+      "price": 120,
+      "imageUrl": "https://previews.123rf.com/images/gorbelabda/gorbelabda1205/gorbelabda120500148/13600984-mens-shoes-with-white-background.jpg"
     },
     {
       "id": "5",
-      "name": "Portman Robot",
-      "detail": "Super Portman Robot",
-      "price": 95,
-      "imageUrl": "https://github.com/ebenezerdon/shopping-cart-images/blob/main/robot5.png?raw=true"
+      "name": "Shoes 5",
+      "detail": "Shoes for work",
+      "price": 110,
+      "imageUrl": "https://i.pinimg.com/736x/7f/6c/d6/7f6cd688c812d43a3dda976dbf8d470f.jpg"
     },
     {
       "id": "6",
-      "name": "Levi Robot",
-      "detail": "Super Levi Robot",
-      "price": 89,
-      "imageUrl": "https://github.com/ebenezerdon/shopping-cart-images/blob/main/robot6.png?raw=true"
+      "name": "Shoes 6",
+      "detail": "Shoes for kids at home",
+      "price": 24,
+      "imageUrl": "https://t4.ftcdn.net/jpg/01/57/92/29/360_F_157922976_9HF93rliMMAfeA2FdvpNYViI6fP2LBgK.jpg"
     },
     {
       "id": "7",
-      "name": "Fred Robot",
+      "name": "Shoes 7",
       "detail": "Super Fred Robot",
       "price": 45,
       "imageUrl": "https://github.com/ebenezerdon/shopping-cart-images/blob/main/robot7.png?raw=true"
     },
     {
       "id": "8",
-      "name": "Elton Robot",
+      "name": "Shoes 8",
       "detail": "Super Elton Robot",
       "price": 12,
       "imageUrl": "https://github.com/ebenezerdon/shopping-cart-images/blob/main/robot8.png?raw=true"
     },
     {
       "id": "9",
-      "name": "Eileen Robot",
+      "name": "Shoes 9",
       "detail": "Super Eileen Robot",
       "price": 39,
       "imageUrl": "https://github.com/ebenezerdon/shopping-cart-images/blob/main/robot9.png?raw=true"
     },
     {
       "id": "10",
-      "name": "Dolores Robot",
+      "name": "Shoes 10",
       "detail": "Super Dolores Robot",
       "price": 102,
       "imageUrl": "https://github.com/ebenezerdon/shopping-cart-images/blob/main/robot10.png?raw=true"
     },
     {
       "id": "11",
-      "name": "Dolly Robot",
+      "name": "Shoes 11",
       "detail": "Super Dolly Robot",
       "price": 82,
       "imageUrl": "https://github.com/ebenezerdon/shopping-cart-images/blob/main/robot11.png?raw=true"
     },
     {
       "id": "12",
-      "name": "Bubbles Robot",
+      "name": "Shoes 12",
       "detail": "Super Bubbles Robot",
       "price": 55,
       "imageUrl": "https://github.com/ebenezerdon/shopping-cart-images/blob/main/robot12.png?raw=true"
