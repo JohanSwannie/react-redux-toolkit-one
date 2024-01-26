@@ -17,21 +17,21 @@
     {
       "id": "3",
       "name": "Shoes 3",
-      "detail": "Dhoes for the gym",
+      "detail": "Shoes for the gym",
       "price": 95,
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYgWZwd2oLIQbqEo3zUaNNnVvK-vX-6Hd3AxCgdRHXbMXAMKTWmKYa5Dc-YB-AyuElcgc&usqp=CAU"
     },
     {
       "id": "4",
       "name": "Shoes 4",
-      "detail": "Shoes for church",
+      "detail": "Shoes for men for church",
       "price": 120,
       "imageUrl": "https://previews.123rf.com/images/gorbelabda/gorbelabda1205/gorbelabda120500148/13600984-mens-shoes-with-white-background.jpg"
     },
     {
       "id": "5",
       "name": "Shoes 5",
-      "detail": "Shoes for work",
+      "detail": "Shoes for men for work",
       "price": 110,
       "imageUrl": "https://i.pinimg.com/736x/7f/6c/d6/7f6cd688c812d43a3dda976dbf8d470f.jpg"
     },
@@ -45,44 +45,44 @@
     {
       "id": "7",
       "name": "Shoes 7",
-      "detail": "Super Fred Robot",
+      "detail": "Shoes for kids for gym",
       "price": 45,
-      "imageUrl": "https://github.com/ebenezerdon/shopping-cart-images/blob/main/robot7.png?raw=true"
+      "imageUrl": "https://media.istockphoto.com/id/849166628/photo/pair-of-white-sneakers-isolated-on-white-background-sport-shoes.jpg?s=612x612&w=0&k=20&c=4f1cW7e4PxzUQS2UOLv4keljiMx-2RwQt4IZDI69bSg="
     },
     {
       "id": "8",
       "name": "Shoes 8",
-      "detail": "Super Elton Robot",
-      "price": 12,
-      "imageUrl": "https://github.com/ebenezerdon/shopping-cart-images/blob/main/robot8.png?raw=true"
+      "detail": "Shoes for girls for church",
+      "price": 90,
+      "imageUrl": "https://m.media-amazon.com/images/I/31uKd2ZileL._AC_SY780_.jpg"
     },
     {
       "id": "9",
       "name": "Shoes 9",
-      "detail": "Super Eileen Robot",
-      "price": 39,
-      "imageUrl": "https://github.com/ebenezerdon/shopping-cart-images/blob/main/robot9.png?raw=true"
+      "detail": "Shoes for boys for church",
+      "price": 70,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_fa642b46-2653-401b-b5f0-3bc3ce02b430?wid=488&hei=488&fmt=pjpeg"
     },
     {
       "id": "10",
       "name": "Shoes 10",
-      "detail": "Super Dolores Robot",
-      "price": 102,
-      "imageUrl": "https://github.com/ebenezerdon/shopping-cart-images/blob/main/robot10.png?raw=true"
+      "detail": "Shoes for women for church",
+      "price": 135,
+      "imageUrl": "https://static.vecteezy.com/system/resources/previews/017/342/054/large_2x/red-woman-fashion-high-heels-shoes-isolated-on-white-background-closeup-women-bright-summer-footwear-shopping-and-fashion-concept-glamour-and-luxury-ladies-accessory-banner-selective-focus-photo.jpg"
     },
     {
       "id": "11",
       "name": "Shoes 11",
-      "detail": "Super Dolly Robot",
-      "price": 82,
-      "imageUrl": "https://github.com/ebenezerdon/shopping-cart-images/blob/main/robot11.png?raw=true"
+      "detail": "Shoes for women for work",
+      "price": 100,
+      "imageUrl": "https://static.vecteezy.com/system/resources/previews/014/012/607/non_2x/shiny-leather-black-shoes-for-woman-isolated-on-white-background-concept-formal-and-polite-shoes-for-woman-to-wear-to-work-school-university-costume-uniform-fashion-free-photo.JPG"
     },
     {
       "id": "12",
       "name": "Shoes 12",
-      "detail": "Super Bubbles Robot",
-      "price": 55,
-      "imageUrl": "https://github.com/ebenezerdon/shopping-cart-images/blob/main/robot12.png?raw=true"
+      "detail": "Shoes for women for gym",
+      "price": 65,
+      "imageUrl": "https://t3.ftcdn.net/jpg/03/14/53/82/360_F_314538227_Jshqv9yPDUkISAy1FNxnmSDQBn7G7NFH.jpg"
     }
   ]
 }
