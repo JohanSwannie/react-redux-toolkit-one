@@ -7,13 +7,14 @@
     background-color: rgb(201, 236, 235);
     height: 50rem;
     padding-top: 2.5rem;
-    border: 2px solid #e75c5c;
+    border: 2px solid #033b09;
   }
 
   .card-img-top {
     height: 27rem;
     width: 27rem;
     object-fit: contain;
+    mix-blend-mode: multiply;
   }
 
   .card-title {
